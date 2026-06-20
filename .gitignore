@@ -1,0 +1,12 @@
+# Ignore a specific file
+config.json
+config.ini
+
+# Ignore an entire directory (always add a trailing slash)
+node_modules/
+bin/
+
+# Ignore all files ending with a specific extension
+*.log
+*.tmp
+*.ini
